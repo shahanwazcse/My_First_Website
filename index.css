@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bio{
+    background-color: rgba(141, 15, 155, 0.877);
+    color: whitesmoke;
+    padding: 3%;
+}
+.img{
+    width:80%;
+    padding: 10%;
+}
+.new{
+    text-align: center;
+    background-color: rgb(21, 140, 146);
+}
+.foot{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1.5%;
+    
+}
